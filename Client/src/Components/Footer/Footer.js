@@ -21,7 +21,7 @@ const Footer = (props) => {
         <p>
           <a
             className="contact-links"
-            href="https://www.linkedin.com/in/kashiekzmi/"
+            href="https://www.linkedin.com/in/suhas-jadhav-55524525a/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -30,7 +30,7 @@ const Footer = (props) => {
           &nbsp;&nbsp;|&nbsp;&nbsp;
           <a
             className="contact-links"
-            href="https://github.com/KaShiekzmi"
+            href="https://github.com/Suhas5459"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,7 +39,7 @@ const Footer = (props) => {
           &nbsp;&nbsp;|&nbsp;&nbsp;
           <a
             className="contact-links"
-            href="https://www.instagram.com/kaxhie_x/"
+            href="https://www.instagram.com/suhaze._11a/?__pwa=1"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ const Footer = (props) => {
             <i className="fa fa-whatsapp"></i> WhatsApp
           </a>
         </p>
-        <p>&copy; 2023 Kashif Abbas Kazmi</p>
+        <p>&copy; 2024 Suhas jadhav</p>
       </div>
     </footer>
   );
